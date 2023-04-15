@@ -1,4 +1,4 @@
-# Welcome to Blockhackers
+# blockhackers.io
 
 ## Network state tools for the age of web3
 
