@@ -1,4 +1,4 @@
-# [blockhackers.io](https://blockhackers.io)
+<h1><code><a href='https://blockhackers.io' target="_blank">blockhackers.io</a></code></h1>
 
 ## Network state tools for the age of web3
 
