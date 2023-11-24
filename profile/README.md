@@ -1,12 +1,10 @@
 <h1><code><a href='https://blockhackers.io' target="_blank">blockhackers.io</a></code></h1>
 
-## Network state tools for the age of web3
+## web3 consulting
 
-Start your own fully decentralized onchain enterprise with our curated selection of tools.
+Start your own fully decentralized onchain enterprise with our development team.
 
-### We believe in everyone's freedom to control their destiny
-
-Anyone should be free to be able to start and maintain their own enterprise without interference. Blockhackers collective provides access to the tools for individuals to make this possible.
+Contact us here: https://blockhackers.io
 
 ### Join blockhackers
 
