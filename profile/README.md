@@ -4,7 +4,7 @@
 
 Start your own fully decentralized onchain enterprise with our development team.
 
-Contact us here: https://blockhackers.io
+Contact us here: [https://blockhackers.io](https://blockhackers.io/?id=two)
 
 ### Join blockhackers
 
